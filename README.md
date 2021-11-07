@@ -10,8 +10,8 @@
 ![Member2](./9.png)
 ![Member3](./10.png)
 
-### The locker part
-![Lockers](./LockerDemo.mp4)
+<!-- ### The locker part
+[![Watch the video](./LockerDemo.mp4)](./LockerDemo.mp4) -->
 
 # Project idea
 A dance studio asked us (the [Sprucebird](https://github.com/sprucebird) team ) to make them an internal system for managing dancer data, logging their entries and payments as well as controlling smart lockers. A challenging set of tasks for sure, which is exactly what got us interested. The prototypes are all built and the above video demonstrates our first tests with the lockers. 
